@@ -1,0 +1,61 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+.header{
+    background-color: blueviolet;
+    color: whitesmoke;
+    height: 100px;
+    text-align: center;
+ }
+ .header h1{
+   color: burlywood;
+   padding-top: 30px;
+}
+.banner{
+   background-color:teal;
+   color: rebeccapurple;
+   height: 300px;
+   text-align: center;
+}
+.banner h1{
+   color: brown;
+   padding-top: 135px;
+}
+.wrapper{
+   overflow: hidden;
+}
+.left{
+   width: 50%;
+   background-color:lightcoral;
+   color: darkturquoise;
+   height: 200px;
+   text-align: center;
+   float: left;
+}
+.left h1{
+   color: darkturquoise;
+   padding-top: 85px;
+}
+.right{
+   width: 50%;
+   background-color:gray;
+   color: gold;
+   height: 200px;
+   text-align: center;
+   float: right;
+}
+.right h1{
+   color: blue;
+   padding-top: 85px;
+}
+.footer{
+   background-color:indianred;
+   color: rgb(20, 189, 138);
+   height: 100px;
+   text-align: center;
+}
+.footer h1{
+   color: rgb(153, 192, 207);
+   padding-top: 30px;
+}
